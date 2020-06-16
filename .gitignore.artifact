@@ -1,0 +1,6 @@
+# Ignore paths that contain user-generated content.
+/docroot/sites/*/files
+/docroot/sites/*/private
+
+# Ignore SimpleTest multi-site environment.
+/docroot/sites/simpletest
